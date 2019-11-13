@@ -1,0 +1,123 @@
+body {
+	background-color: #ececeb;
+	color: rgb(30,30,30);
+	text-align: justify;
+	font-size: 17px;
+	font-family: 'Roboto', sans-serif;
+	background-image: linear-gradient(-225deg, rgba(236,242,247,0.2) 0%, rgba(235,242,247,0.9) 50%);
+}
+h1 {
+    color: #593636;
+    font-family: 'Open Sans', sans-serif;
+	font-weight: lighter;
+    font-size: 30px;
+}
+
+h2, h3, h4, h5 {
+
+	color: #003f5c
+	font-weight: lighter;
+	font-family: 'Yeon Sung', cursive;
+	font-size: 20px;
+
+}
+
+img {
+	width: 30%;
+}
+
+a{   font-family: 'Open Sans', sans-serif;
+     text-decoration: none;
+
+ }
+i {
+	font-size: 50px;
+}
+
+#facebook {
+	color: rgb(59, 89, 152);
+}
+
+#facebook:hover {
+	font-size: 60px;
+}
+
+
+#instagram {
+	color: rgb(228, 64, 95);
+}  
+
+#instagram:hover {
+	font-size: 65px;
+}  
+
+#linkedin: {
+	color: rgb(40,103,178);
+}
+
+#linkedin:hover {
+	font-size: 65px;
+}
+
+/* Custom design with class */
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+
+ }
+
+.card-white {
+
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 4px;
+	text-align: center;
+	margin: 20px 0px;
+}
+
+.img-circle {
+	width: 25%;
+	border-radius: 50%;
+}
+
+.btn-red{
+	background-color: #b5525c;
+	color:#f7f7f7;
+	padding: 10px 20px;
+	border-radius: 4px;
+}
+
+.btn-red:hover {
+	background-color: #ff6f5e
+}
+
+.list-inline li {
+	display: inline;
+	padding: 15px;
+}
+
+.background {
+
+	
+
+}
+
+/*
+.list-inline i {
+	font-size: 50px;
+	color: grey;
+
+}
+
+.list-inline i: hover {
+	font-size: 60px;
+	color: rgb(66,103,178);
+
+}
+
+#etude p {
+	margin: 30px;
+}
+*/
